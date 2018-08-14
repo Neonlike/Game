@@ -1,0 +1,1 @@
+D:\GameWithNetwork2\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
